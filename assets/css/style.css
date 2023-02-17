@@ -64,12 +64,12 @@ p {
     margin-left: 20px;
 }
 
-.seo-image {
+.float-left {
     float: left;
     margin-right: 25px;
 }
 
-.orm-image {
+.float-right {
     float: right;
     margin-left: 25px;
 }
@@ -189,7 +189,7 @@ p {
     font-size: 36px;
 }
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
