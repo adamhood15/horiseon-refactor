@@ -1,3 +1,4 @@
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -21,10 +22,12 @@ body {
     font-size: 48px;
 }
 
+/*changes font color for the letters SEO in the logo*/
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/*Navigation bar at the top*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -47,6 +50,7 @@ body {
 
 }
 
+/*Main photo at top of the webpage*/
 .hero {
     height: 800px;
     width: 100%;
@@ -60,6 +64,7 @@ p {
     font-size: 16px;
 }
 
+/*Three content sections in the body of the webpage*/
 .content {
     width: 75%;
     display: inline-block;
@@ -68,11 +73,13 @@ p {
 
 }
 
+/*float-left controls the image in content box 1 and 3*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*float-right controls the image in content box 2*/
 .float-right {
     float: right;
     margin-left: 25px;
@@ -95,6 +102,7 @@ p {
     font-size: 36px;
 }
 
+/*right side aside on the webpage*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -122,6 +130,7 @@ p {
     max-width: 150px;
 }
 
+/*way the footer looks at the bottom of the webpage*/
 .footer {
     padding: 30px;
     clear: both;
