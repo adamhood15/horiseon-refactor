@@ -1,4 +1,5 @@
 
+/*applies to all of the webpage*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -9,6 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*header ribbon and content style*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -85,6 +87,8 @@ p {
     margin-left: 25px;
 }
 
+/*content section styles the boxes, images, and 
+headings of those three sections*/
 .content-box {
     margin-bottom: 20px;
     padding: 50px;
@@ -102,7 +106,7 @@ p {
     font-size: 36px;
 }
 
-/*right side aside on the webpage*/
+/*right aside style on the webpage*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
